@@ -8,5 +8,6 @@ printf("modifico el programa");
 printf("otra modificacion");
 printf("nueva modificacion del main");
 printf("modificacion realizada desde el github");
-printf("cambio para ver el git fetch");
+printf("cambio para ver el git     fetch");
+
 }
