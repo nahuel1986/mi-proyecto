@@ -1,4 +1,4 @@
-#include<stdio.h>
+e#include<stdio.h>
 
 
 main(){
@@ -6,5 +6,5 @@ main(){
 printf("hola estoy en mi main");
 printf("modifico el programa");
 printf("otra modificacion");
-printf("nueva modificacion del main");
+printf("nueva modificacion deeel main");
 }
